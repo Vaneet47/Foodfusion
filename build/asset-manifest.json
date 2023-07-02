@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.css": "/FoodOrderingApp/static/css/main.a252f055.chunk.css",
-    "main.js": "/FoodOrderingApp/static/js/main.820ef996.chunk.js",
-    "main.js.map": "/FoodOrderingApp/static/js/main.820ef996.chunk.js.map",
-    "runtime-main.js": "/FoodOrderingApp/static/js/runtime-main.da51a843.js",
-    "runtime-main.js.map": "/FoodOrderingApp/static/js/runtime-main.da51a843.js.map",
-    "static/js/2.ecabdf43.chunk.js": "/FoodOrderingApp/static/js/2.ecabdf43.chunk.js",
-    "static/js/2.ecabdf43.chunk.js.map": "/FoodOrderingApp/static/js/2.ecabdf43.chunk.js.map",
-    "index.html": "/FoodOrderingApp/index.html",
-    "static/css/main.a252f055.chunk.css.map": "/FoodOrderingApp/static/css/main.a252f055.chunk.css.map",
-    "static/js/2.ecabdf43.chunk.js.LICENSE.txt": "/FoodOrderingApp/static/js/2.ecabdf43.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/FoodOrderingApp/static/media/meals.2971f633.jpg"
+    "main.css": "/Foodfusion/static/css/main.283e1768.css",
+    "main.js": "/Foodfusion/static/js/main.a0c68c50.js",
+    "static/media/meals.jpg": "/Foodfusion/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Foodfusion/index.html",
+    "main.283e1768.css.map": "/Foodfusion/static/css/main.283e1768.css.map",
+    "main.a0c68c50.js.map": "/Foodfusion/static/js/main.a0c68c50.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.da51a843.js",
-    "static/js/2.ecabdf43.chunk.js",
-    "static/css/main.a252f055.chunk.css",
-    "static/js/main.820ef996.chunk.js"
+    "static/css/main.283e1768.css",
+    "static/js/main.a0c68c50.js"
   ]
 }
